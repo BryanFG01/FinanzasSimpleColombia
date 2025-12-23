@@ -1,0 +1,12 @@
+{
+  "mortgage": {
+    "minRate": 12.5,
+    "maxRate": 18.0,
+    "defaultTerm": 240
+  },
+  "consumer": {
+    "minRate": 18.0,
+    "maxRate": 28.0,
+    "defaultTerm": 48
+  }
+}

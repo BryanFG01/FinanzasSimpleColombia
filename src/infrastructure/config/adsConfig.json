@@ -1,0 +1,28 @@
+{
+  "providers": {
+    "adSense": {
+      "enabled": true,
+      "clientId": "ca-pub-XXXXXXXXXXXXXXXX",
+      "slots": {
+        "header": "1234567890",
+        "sidebar": "0987654321",
+        "inContent": "1122334455",
+        "footer": "5544332211"
+      }
+    },
+    "mediaNet": {
+      "enabled": false,
+      "cid": "your_cid",
+      "crid": "your_crid"
+    },
+    "propellerAds": {
+      "enabled": false,
+      "zoneId": "your_zone_id"
+    }
+  },
+  "adDensity": {
+    "mobile": 3,
+    "desktop": 4
+  },
+  "minContentBetweenAds": 300
+}

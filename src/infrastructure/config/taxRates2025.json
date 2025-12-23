@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "lastUpdated": "2025-01-01",
+  "brackets": [
+    {
+      "min": 0,
+      "max": 4500000,
+      "rate": 0,
+      "description": "Exento de retención"
+    },
+    {
+      "min": 4500001,
+      "max": 9000000,
+      "rate": 0.19,
+      "description": "19% de retención"
+    },
+    {
+      "min": 9000001,
+      "max": 15000000,
+      "rate": 0.28,
+      "description": "28% de retención"
+    },
+    {
+      "min": 15000001,
+      "max": null,
+      "rate": 0.33,
+      "description": "33% de retención"
+    }
+  ],
+  "uvt2025": 47065,
+  "minimumWage": 1423500
+}
